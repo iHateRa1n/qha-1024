@@ -1,0 +1,10 @@
+QHA stands for "Quick Hashing Algorithm". 
+
+QHA's original implementation is written in Python (2/3), but it should be able to be ported to C, C++, and probably JavaScript. 
+Strangely, I get different hashes when running in Python 2, and in Python 3. 
+Because of this, I recommend that you use PYTHON 3, as Python 2 is getting discontinued within the next few years. (as of June 29, 2018. )
+
+The hash for the INCLUDED file "hash_me" should be:
+2b7da9f6b6b8049b93d3bc069c169c4ebc3d2a7dd1b4782d7272ff84a670b89208789a099b0dd1d3009c9601ad011b8588ef48b5b5bf3ab9e5f145646d08800d5f61d514d1d6f9b266ad82b4f74e7088591706c871ed60b066e034ffb05f4bcfef31982961dc73d3fdf09b87d5d7f0ac96dacaf154c25812c87ef683a7dcd2b
+
+If it is, your Python installation is correctly hashing.
